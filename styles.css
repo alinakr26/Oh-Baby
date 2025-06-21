@@ -164,11 +164,11 @@ margin-bottom: 1rem;
 
 .full-screen-image {
     width: 100vw;
-    height: 100vh; /* Oder die gewÃ¼nschte HÃ¶he fÃ¼r Mobile, z.B. 70vh */
+    height: 130vh; /* Oder die gewÃ¼nschte HÃ¶he fÃ¼r Mobile, z.B. 70vh */
     overflow: hidden; /* Wichtig, um sicherzustellen, dass nichts Ã¼berlÃ¤uft */
     position: relative; /* Oder standard, wenn kein anderes Element absolut darin liegt */
 
-    background-image: url('images/Tower.jpg'); /* Pfad zu deinem mobilen Brautpaar-Bild */
+    background-image: url('images/Towermobile.jpg'); /* Pfad zu deinem mobilen Brautpaar-Bild */
     background-size: cover; /* Bild fÃ¼llt den Container und wird beschnitten */
     background-position: center center; /* Bild zentrieren */
     background-repeat: no-repeat; /* Verhindert Wiederholung */
